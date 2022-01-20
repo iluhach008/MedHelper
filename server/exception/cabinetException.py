@@ -1,0 +1,2 @@
+class CabinetAlreadyException(Exception):
+    pass

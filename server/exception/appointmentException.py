@@ -1,0 +1,2 @@
+class TimeCrossingException(Exception):
+    pass
